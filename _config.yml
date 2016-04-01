@@ -1,7 +1,7 @@
 name: FOBA
 favicon: null
-layout_spectrum: 0.0623776032589376
-typography_spectrum: 0.6054100345354527
+layout_spectrum: 0
+typography_spectrum: 0.07846
 title: Fair Oaks Beautification Association
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#000000'
+    - '#2f3a50'
+    - '#ad9d91'
+    - '#a9d2f0'
+    - '#c15e3c'
   brandStrength: 0.5182602230925113
-  lightness: 0.20525522180832922
+  lightness: 1
   saturation: 0.7274568360298872
   rhythmicContrast: 0.9350588775705546
 purpose: []
