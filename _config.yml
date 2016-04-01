@@ -1,0 +1,28 @@
+name: FOBA
+favicon: null
+layout_spectrum: 0.0623776032589376
+typography_spectrum: 0.6054100345354527
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5182602230925113
+  lightness: 0.20525522180832922
+  saturation: 0.7274568360298872
+  rhythmicContrast: 0.9350588775705546
+purpose: []
